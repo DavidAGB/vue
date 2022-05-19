@@ -11,6 +11,7 @@
           <input
             type="email"
             v-model="email"
+            required
             class="
               block
               w-full
@@ -34,6 +35,7 @@
           <input
             type="password"
             v-model="password"
+            required
             class="
               block
               w-full
