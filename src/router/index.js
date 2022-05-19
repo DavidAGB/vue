@@ -12,7 +12,7 @@ import Dashboard from "../views/dashboard/Dashboard.vue";
 
 
 const router = createRouter({
-    history: createWebHistory('https://davidagb.github.io/vue'),
+     history: createWebHistory(import.meta.env.BASE_URL),
     routes: [{
             path: "/",
             name: "home",
