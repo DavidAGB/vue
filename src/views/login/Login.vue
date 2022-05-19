@@ -10,8 +10,9 @@
           <label class="text-gray-200 dark:text-gray-200">email </label>
           <input
             type="email"
+             required
             v-model="email"
-            required
+            
             class="
               block
               w-full
@@ -34,8 +35,9 @@
           <label class="text-gray-200 dark:text-gray-200">password</label>
           <input
             type="password"
+             required
             v-model="password"
-            required
+            
             class="
               block
               w-full
