@@ -13,4 +13,4 @@ Aun asi si lo que quieres es evitar la complejidad y generar una interfaz dinám
 
 Decidí irme por la complejidad y tomar Vue para crear interfaces de usuario y aprovechar su potencial como Framework, luego de leer y estudiar su ecosistema fui a la práctica creando así mi primera aplicación web usando vue , una aplicacion básica consumiendo una API Rest usando Laravel Sanctum. Pero dejando claro para mí lo genial y potente  que es [Vue](https://vuejs.org/) .
 
-- [Una simple vista aqui](https://davidagb.github.io/vue/).
+- [Una simple vista aqui](https://vue-blog-laravel.netlify.app).
